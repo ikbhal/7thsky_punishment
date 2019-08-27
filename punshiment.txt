@@ -1,0 +1,4 @@
+if classes not attending -> repeatedly , we no more accept now, need to join ,next batch only
+> 10days in month -> cancel
+>5 days -> strict warning
+>3 days -> warning
